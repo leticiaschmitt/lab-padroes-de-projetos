@@ -1,6 +1,10 @@
 # Explorando Padrões de Projetos na Prática com Java
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
+Este repositório faz parte da trilha de Back-end Java do Santander Bootcamp 2024.
+
+Fazendo parte do módulo "Ganhando Produtividade no Java com Spring Framework" - Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework.
+
+Este projeto explorou alguns padrões usando Java puro:
 - Singleton
 - Strategy
 - Facade
